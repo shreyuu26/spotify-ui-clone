@@ -5,7 +5,7 @@ A pixel-perfect responsive Spotify Web Player UI clone built using pure HTML5 an
 A responsive and visually accurate clone of the Spotify Web Player user interface. This project was developed from scratch to practice advanced layout styling, alignment, and modern responsive web design techniques.
 
 ## 🚀 Live Demo
-👉 **https://github.io**
+👉 **https://shreyuu26.github.io/spotify-ui-clone/**
 
 ## ✨ Key Features
 - **Pixel-Perfect UI:** Recreated the exact dark-themed layout of Spotify, including the sidebar, navigation headers, and footer controls.
